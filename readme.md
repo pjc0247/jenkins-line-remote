@@ -32,10 +32,12 @@ Usage
 
 라마 플러그인으로 이용하기
 ----
+한개의 라인 계정에 __jenkins-line-remote__뿐만 아니라 다른 기능도 넣고자 할 때 사용합니다.
 * ㅎㅇ
 
 Standalone 프로그램으로 이용하기
 ----
+단순히 __jenkins-line-remote__만을 이용하고자 할 때 사용합니다.
 ```
 jenkins_line CONFIG_PATH
 ```
