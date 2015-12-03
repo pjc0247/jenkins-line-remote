@@ -37,7 +37,7 @@ Usage
 
 Standalone 프로그램으로 이용하기
 ----
-단순히 __jenkins-line-remote__만을 이용하고자 할 때 사용합니다.
+단순히 __jenkins-line-remote__만을 이용하고자 할 때 사용합니다. 추가적인 코드 작성이 필요 없으며, 명령 프롬프트 환경에서 바로 이용할 수 있습니다.
 ```
 jenkins_line CONFIG_PATH
 ```
