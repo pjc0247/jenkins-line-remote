@@ -41,3 +41,8 @@ Standalone 프로그램으로 이용하기
 ```
 jenkins_line CONFIG_PATH
 ```
+
+HEY
+----
+The source code of this program will not be distributed here cause it contains the LINE protocol implementation codes which is prohibited to upload.
+   Please [see](https://github.com/github/dmca/blob/master/2014-06-04-LINE-Corp.md).
